@@ -1,0 +1,7 @@
+name: tf-cpu
+dependencies:
+- python=3.6
+- pip:
+  - tensorflow==1.14.0
+  - gym==0.14.0
+  - jupyter==1.0.0
